@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi,
 
-<!--
-**GuloGuloDesu/GuloGuloDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior DevOps & Infrastructure Engineer · 30 years of production operations · Klamath Falls, OR
 
-Here are some ideas to get you started:
+## What's here (and what isn't)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my career's output has lived in private/internal systems for
+employers and clients — so this profile is intentionally sparse.
+What you'll find here:
+
+- 🌐 Personal site site (GitHub Pages)
+- ⌨️  A few misc code repos and tests
+
+## What I work on day-to-day
+
+Linux · AWS · Terraform · Ansible · Python · PostgreSQL · Docker /
+Docker Swarm · ELK · DataDog · Ruby (via Chef cookbooks) ·
+disaster recovery and security automation.
+
+Currently studying for the CKA and the GitHub Actions GH-100 / GH-200.
+
+## Elsewhere
+
+- 🎩 DEF CON Darknet volunteer (15+ years writing security challenges)
